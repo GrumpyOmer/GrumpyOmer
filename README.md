@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi i'am Omer 👋👋
+![image](https://github.com/GrumpyOmer/GrumpyOmer/blob/main/bannerBackground.png)
+![image](https://github.com/GrumpyOmer/GrumpyOmer/blob/main/bannerBackground.png)
+![image](https://github.com/GrumpyOmer/GrumpyOmer/blob/main/bannerBackground.png)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GrumpyOmer&show_icons=true&theme=dark&count_private=true)
 
 <!--
