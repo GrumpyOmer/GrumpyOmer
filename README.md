@@ -1,4 +1,4 @@
-### Hi i'am Omer 👋👋
+### Hi, I'm Omer 👋👋
 ![image](https://github.com/GrumpyOmer/GrumpyOmer/blob/main/bannerBackground.png)
 ![image](https://github.com/GrumpyOmer/GrumpyOmer/blob/main/bannerBackground.png)
 ![image](https://github.com/GrumpyOmer/GrumpyOmer/blob/main/bannerBackground.png)
