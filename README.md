@@ -1,9 +1,8 @@
 ### Hi, I'm Omer 👋👋
-![image](https://github.com/GrumpyOmer/GrumpyOmer/blob/main/bannerBackground.png)
-![image](https://github.com/GrumpyOmer/GrumpyOmer/blob/main/bannerBackground.png)
-![image](https://github.com/GrumpyOmer/GrumpyOmer/blob/main/bannerBackground.png)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=GrumpyOmer&show_icons=true&theme=dark&count_private=true)
+[![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrumpyOmer&show_icons=true&title_color=FC4349&text_color=6DBCDB&icon_color=F3B562&bg_color=FFFFFF&include_all_commits=true&count_private=true&)](https://github.com/GrumpyOmer)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrumpyOmer&hide=css,html&layout=compact&card_width=450)](https://github.com/GrumpyOmer)
 
 <!--
 **GrumpyOmer/GrumpyOmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
